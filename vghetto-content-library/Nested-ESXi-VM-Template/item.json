@@ -1,0 +1,52 @@
+{
+  "files": [
+    {
+      "hrefs": [
+        "Nested-ESXi-VM-Template/Nested-ESXi-VM-disk1.vmdk"
+      ], 
+      "etag": "884e0b0e1f4771794b4fc0d904789a89", 
+      "name": "Nested-ESXi-VM-disk1.vmdk", 
+      "size": 68096
+    }, 
+    {
+      "hrefs": [
+        "Nested-ESXi-VM-Template/Nested-ESXi-VM-disk2.vmdk"
+      ], 
+      "etag": "884e0b0e1f4771794b4fc0d904789a89", 
+      "name": "Nested-ESXi-VM-disk2.vmdk", 
+      "size": 68096
+    }, 
+    {
+      "hrefs": [
+        "Nested-ESXi-VM-Template/Nested-ESXi-VM-disk3.vmdk"
+      ], 
+      "etag": "884e0b0e1f4771794b4fc0d904789a89", 
+      "name": "Nested-ESXi-VM-disk3.vmdk", 
+      "size": 68608
+    }, 
+    {
+      "hrefs": [
+        "Nested-ESXi-VM-Template/Nested-ESXi-VM.mf"
+      ], 
+      "etag": "884e0b0e1f4771794b4fc0d904789a89", 
+      "name": "Nested-ESXi-VM.mf", 
+      "size": 289
+    }, 
+    {
+      "hrefs": [
+        "Nested-ESXi-VM-Template/Nested-ESXi-VM.ovf"
+      ], 
+      "etag": "884e0b0e1f4771794b4fc0d904789a89", 
+      "name": "Nested-ESXi-VM.ovf", 
+      "size": 13747
+    }
+  ], 
+  "properties": {}, 
+  "version": "2", 
+  "description": "", 
+  "created": "2015-09-05T06:43Z", 
+  "selfHref": "Nested-ESXi-VM-Template/item.json", 
+  "type": "vcsp.ovf", 
+  "id": "urn:uuid:cff1f99b-be94-48eb-9bb4-458736c7010e", 
+  "name": "Nested-ESXi-VM-Template"
+}

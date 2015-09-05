@@ -1,0 +1,28 @@
+{
+  "files": [
+    {
+      "hrefs": [
+        "Scripts/find_vsan_storage_ctrl_queue_depth.py"
+      ], 
+      "etag": "c73820222d55306f0e65a6f198da9265", 
+      "name": "find_vsan_storage_ctrl_queue_depth.py", 
+      "size": 5760
+    }, 
+    {
+      "hrefs": [
+        "Scripts/ghettoVCB.sh"
+      ], 
+      "etag": "c73820222d55306f0e65a6f198da9265", 
+      "name": "ghettoVCB.sh", 
+      "size": 62846
+    }
+  ], 
+  "properties": {}, 
+  "version": "2", 
+  "description": "", 
+  "created": "2015-09-05T06:43Z", 
+  "selfHref": "Scripts/item.json", 
+  "type": "vcsp.iso", 
+  "id": "urn:uuid:17f1fb23-d1d1-4eb1-87a0-145389d5db79", 
+  "name": "Scripts"
+}

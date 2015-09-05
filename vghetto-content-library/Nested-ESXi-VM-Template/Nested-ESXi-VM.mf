@@ -1,0 +1,4 @@
+SHA1(Nested-ESXi-VM.ovf)= 617fa638459b72c44c695ad299e685b2eb6b7e43
+SHA1(Nested-ESXi-VM-disk1.vmdk)= f2fcf605a6d2d2ef5f0ee915fb5db271f9203d52
+SHA1(Nested-ESXi-VM-disk2.vmdk)= be3062029a73cc338387d773713ca54fe31eca3c
+SHA1(Nested-ESXi-VM-disk3.vmdk)= 2e7b9d30c4606bdd46196ba6b29c7d573dc4df82

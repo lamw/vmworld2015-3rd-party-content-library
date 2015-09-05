@@ -1,0 +1,10 @@
+SHA1(Nested-ESXi-3-Node-VSAN-6_0.ovf)= f26b4c9115be0cba070ce8078d9890c7c3293981
+SHA1(Nested-ESXi-3-Node-VSAN-6_0-disk1.vmdk)= c02fc4f75346c254897a62bdff9d5f0f5f362546
+SHA1(Nested-ESXi-3-Node-VSAN-6_0-disk2.vmdk)= 839dc42b778e840be63af33203a9eb031e85cde3
+SHA1(Nested-ESXi-3-Node-VSAN-6_0-disk3.vmdk)= 886d064d2e2b3a41496429a9649a180a75ce53ac
+SHA1(Nested-ESXi-3-Node-VSAN-6_0-disk4.vmdk)= 287640df6ce1fc53bf584f137aa7dcf6761e21d4
+SHA1(Nested-ESXi-3-Node-VSAN-6_0-disk5.vmdk)= 66330f56d87ab85f975660d82e8081dfd2db5825
+SHA1(Nested-ESXi-3-Node-VSAN-6_0-disk6.vmdk)= 7fe21cb0852c34d2c5d205b24ca3fa7d544dab26
+SHA1(Nested-ESXi-3-Node-VSAN-6_0-disk7.vmdk)= 5af6a4a8535a596a64032ad687fda484c98fd11c
+SHA1(Nested-ESXi-3-Node-VSAN-6_0-disk8.vmdk)= 4c022800b395bb4c506387422c53e26d25a154c9
+SHA1(Nested-ESXi-3-Node-VSAN-6_0-disk9.vmdk)= 76adcf44a303aa3c1953f5c1f5827adf26710190

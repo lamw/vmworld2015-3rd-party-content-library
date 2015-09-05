@@ -1,0 +1,28 @@
+{
+  "files": [
+    {
+      "hrefs": [
+        "ISO/VMware-VMvisor-Installer-5.5.0.update02-2068190.x86_64.iso"
+      ], 
+      "etag": "d41d8cd98f00b204e9800998ecf8427e", 
+      "name": "VMware-VMvisor-Installer-5.5.0.update02-2068190.x86_64.iso", 
+      "size": 0
+    }, 
+    {
+      "hrefs": [
+        "ISO/VMware-VMvisor-Installer-6.0.0-2494585.x86_64.iso"
+      ], 
+      "etag": "d41d8cd98f00b204e9800998ecf8427e", 
+      "name": "VMware-VMvisor-Installer-6.0.0-2494585.x86_64.iso", 
+      "size": 0
+    }
+  ], 
+  "properties": {}, 
+  "version": "2", 
+  "description": "", 
+  "created": "2015-09-05T06:43Z", 
+  "selfHref": "ISO/item.json", 
+  "type": "vcsp.iso", 
+  "id": "urn:uuid:590b28f2-f7cd-4756-adaa-aff3938af3de", 
+  "name": "ISO"
+}

@@ -1,0 +1,100 @@
+{
+  "files": [
+    {
+      "hrefs": [
+        "Nested-ESXi-3-Node-VSAN-6.0-Template/Nested-ESXi-3-Node-VSAN-6_0-disk1.vmdk"
+      ], 
+      "etag": "8d6ba652a4daa6eb5461571a49388ded", 
+      "name": "Nested-ESXi-3-Node-VSAN-6_0-disk1.vmdk", 
+      "size": 68096
+    }, 
+    {
+      "hrefs": [
+        "Nested-ESXi-3-Node-VSAN-6.0-Template/Nested-ESXi-3-Node-VSAN-6_0-disk2.vmdk"
+      ], 
+      "etag": "8d6ba652a4daa6eb5461571a49388ded", 
+      "name": "Nested-ESXi-3-Node-VSAN-6_0-disk2.vmdk", 
+      "size": 68096
+    }, 
+    {
+      "hrefs": [
+        "Nested-ESXi-3-Node-VSAN-6.0-Template/Nested-ESXi-3-Node-VSAN-6_0-disk3.vmdk"
+      ], 
+      "etag": "8d6ba652a4daa6eb5461571a49388ded", 
+      "name": "Nested-ESXi-3-Node-VSAN-6_0-disk3.vmdk", 
+      "size": 68608
+    }, 
+    {
+      "hrefs": [
+        "Nested-ESXi-3-Node-VSAN-6.0-Template/Nested-ESXi-3-Node-VSAN-6_0-disk4.vmdk"
+      ], 
+      "etag": "8d6ba652a4daa6eb5461571a49388ded", 
+      "name": "Nested-ESXi-3-Node-VSAN-6_0-disk4.vmdk", 
+      "size": 68096
+    }, 
+    {
+      "hrefs": [
+        "Nested-ESXi-3-Node-VSAN-6.0-Template/Nested-ESXi-3-Node-VSAN-6_0-disk5.vmdk"
+      ], 
+      "etag": "8d6ba652a4daa6eb5461571a49388ded", 
+      "name": "Nested-ESXi-3-Node-VSAN-6_0-disk5.vmdk", 
+      "size": 68096
+    }, 
+    {
+      "hrefs": [
+        "Nested-ESXi-3-Node-VSAN-6.0-Template/Nested-ESXi-3-Node-VSAN-6_0-disk6.vmdk"
+      ], 
+      "etag": "8d6ba652a4daa6eb5461571a49388ded", 
+      "name": "Nested-ESXi-3-Node-VSAN-6_0-disk6.vmdk", 
+      "size": 68608
+    }, 
+    {
+      "hrefs": [
+        "Nested-ESXi-3-Node-VSAN-6.0-Template/Nested-ESXi-3-Node-VSAN-6_0-disk7.vmdk"
+      ], 
+      "etag": "8d6ba652a4daa6eb5461571a49388ded", 
+      "name": "Nested-ESXi-3-Node-VSAN-6_0-disk7.vmdk", 
+      "size": 68096
+    }, 
+    {
+      "hrefs": [
+        "Nested-ESXi-3-Node-VSAN-6.0-Template/Nested-ESXi-3-Node-VSAN-6_0-disk8.vmdk"
+      ], 
+      "etag": "8d6ba652a4daa6eb5461571a49388ded", 
+      "name": "Nested-ESXi-3-Node-VSAN-6_0-disk8.vmdk", 
+      "size": 68096
+    }, 
+    {
+      "hrefs": [
+        "Nested-ESXi-3-Node-VSAN-6.0-Template/Nested-ESXi-3-Node-VSAN-6_0-disk9.vmdk"
+      ], 
+      "etag": "8d6ba652a4daa6eb5461571a49388ded", 
+      "name": "Nested-ESXi-3-Node-VSAN-6_0-disk9.vmdk", 
+      "size": 68608
+    }, 
+    {
+      "hrefs": [
+        "Nested-ESXi-3-Node-VSAN-6.0-Template/Nested-ESXi-3-Node-VSAN-6_0.mf"
+      ], 
+      "etag": "8d6ba652a4daa6eb5461571a49388ded", 
+      "name": "Nested-ESXi-3-Node-VSAN-6_0.mf", 
+      "size": 863
+    }, 
+    {
+      "hrefs": [
+        "Nested-ESXi-3-Node-VSAN-6.0-Template/Nested-ESXi-3-Node-VSAN-6_0.ovf"
+      ], 
+      "etag": "8d6ba652a4daa6eb5461571a49388ded", 
+      "name": "Nested-ESXi-3-Node-VSAN-6_0.ovf", 
+      "size": 41455
+    }
+  ], 
+  "properties": {}, 
+  "version": "2", 
+  "description": "", 
+  "created": "2015-09-05T06:43Z", 
+  "selfHref": "Nested-ESXi-3-Node-VSAN-6.0-Template/item.json", 
+  "type": "vcsp.ovf", 
+  "id": "urn:uuid:62752dde-50c7-4727-90a2-a8378fede0a5", 
+  "name": "Nested-ESXi-3-Node-VSAN-6.0-Template"
+}
